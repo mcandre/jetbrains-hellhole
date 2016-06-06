@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/Users/andrew.pennebaker/src/sf-social-profiles-pipeline/sf-social-profiles-pipeline-solr/src/main/java/com/spredfast/socialprofiles/pipeline/solr/InteractionDocumentTree.java'" />
+    <option name="defaultScopeName" value="File '/Users/andrew.pennebaker/src/sf-social-profiles-pipeline/sf-social-profiles-pipeline-solr/src/main/java/com/spredfast/socialprofiles/pipeline/solr/InteractionDocumentTree.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/andrew.pennebaker/src/sf-social-profiles-pipeline/sf-social-profiles-pipeline-solr/src/main/java/com/spredfast/socialprofiles/pipeline/solr/InteractionDocumentTree.java'" />
   </component>
 </application>
