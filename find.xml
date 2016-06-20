@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/andrew.pennebaker/src/sf-social-profiles-normalizer/src/main/java/com/spredfast/socialprofiles/normalizer/NormalizerApplication.java'" />
-    <option name="defaultScopeName" value="File '/Users/andrew.pennebaker/src/sf-social-profiles-normalizer/src/main/java/com/spredfast/socialprofiles/normalizer/NormalizerApplication.java'" />
+    <option name="customScope" value="Project 'sf-social-profiles-service'" />
+    <option name="defaultScopeName" value="Project 'sf-social-profiles-service'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/andrew.pennebaker/src/sf-social-profiles-normalizer/src/main/java/com/spredfast/socialprofiles/normalizer/NormalizerApplication.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'sf-social-profiles-service'" />
   </component>
 </application>
